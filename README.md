@@ -1,6 +1,6 @@
 # Assets Endpoint Project
 
-The scope of this project is to demonstrate the potential of the integrated models to represents assets for their owners and admin users. 
+The scope of this project is to demonstrate the potential of the integrated models to represent assets for their owners and admin users. 
 
 for this purpose a mini system is developed to test and prove the functionality of models as an integrated system to get the desired result.
 #
